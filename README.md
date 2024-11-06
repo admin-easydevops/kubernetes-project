@@ -17,7 +17,6 @@ sudo apt install nodejs
 
 sudo apt install npm
 
-npm install express@4.17.1
 ```
 ```
 npm install
