@@ -13,6 +13,13 @@ git clone  https://github.com/admin-easydevops/kubernetes-project.git
 cd notes-app-cicd
 ```
 ```
+sudo apt install nodejs
+
+sudo apt install npm
+
+npm install express@4.17.1
+```
+```
 npm install
 ```
 
